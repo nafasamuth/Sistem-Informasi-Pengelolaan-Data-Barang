@@ -32,7 +32,7 @@ public class Gudang implements Serializable {
     }
 
     public void setNama(String nama) {
-        this.nama = nama;
+        this.nama =nama;
     }
 
     public int getJmlBarang() {

@@ -248,4 +248,8 @@ public class Addbarang_penyedia extends javax.swing.JFrame {
     private javax.swing.JPanel jPanel1;
     private javax.swing.JButton jbackn;
     // End of variables declaration//GEN-END:variables
+
+    public void reset() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
 }

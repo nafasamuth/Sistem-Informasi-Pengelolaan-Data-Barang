@@ -442,4 +442,8 @@ public class Aplikasi {
 //        return s;
 //        
 //    }
+
+    public Petugas getPetugasUsername(String username) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
 }

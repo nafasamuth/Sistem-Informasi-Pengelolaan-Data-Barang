@@ -254,4 +254,8 @@ public class Addbarang_petugas extends javax.swing.JFrame {
     public void addListener(Controllerbarang_gudang aThis) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
+
+    public void reset() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
 }
